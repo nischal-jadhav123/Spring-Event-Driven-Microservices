@@ -19,6 +19,7 @@ target/
 *.iml
 *.ipr
 .mvn
+twitter-to-kafka-service/logs
 
 ### NetBeans ###
 /nbproject/private/
